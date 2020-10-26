@@ -1,0 +1,49 @@
+<vcard>
+	<fn>
+		<text>chatterboxtown.us</text>
+	</fn>
+	<kind>
+		<text>application</text>
+	</kind>
+	<url>
+		<uri>https://chatterboxtown.us/</uri>
+	</url>
+	<note>
+		<text>ChatterboxTown.US is a public XMPP instant messaging service provider hosted in the USA</text>
+	</note>
+	<registration xmlns='urn:xmpp:vcard:registration:1'>
+		<uri>https://chatterboxtown.us:5281/register_web/</uri>
+	</registration>
+	<bday>
+		<date>2020</date>
+	</bday>
+	<adr>
+		<country>USA</country>
+	</adr>
+	<ca xmlns='urn:xmpp:vcard:ca:0'>
+		<name>Let's Encrypt</name>
+		<uri>https://letsencrypt.org/</uri>
+	</ca>
+	<name xmlns='jabber:iq:version'>ejabberd IM</name>
+	<impp>
+		<uri>xmpp:admin@chatterboxtown.us</uri>
+	</impp>
+	<geo>
+		<uri>geo:37.751,-97.822</uri>
+	</geo>
+	<tz>
+		<text>America/Chicago</text>
+	</tz>
+	<logo>
+		<uri>https://chatterboxtown.us/images/favicon.png</uri>
+	</logo>
+	<lang>
+		<parameters>
+			<pref>1</pref>
+		</parameters>
+		<language-tag>en</language-tag>
+	</lang>
+	<email>
+		<text>admin@chatterboxtown.us</text>
+	</email>
+</vcard>
